@@ -5,4 +5,4 @@ set GIT=
 set VENV_DIR=
 set COMMANDLINE_ARGS=
 
-call webui.bat --xformers
+call webui.bat --xformers --no-gradio-queue
